@@ -1,5 +1,5 @@
 # Final-NFL
-This will be include code for OA3801 final project./
+This will be include code for OA3801 final project.<br>
 Our poject will focus on analyzing key aspects of NFL teams perfrormance and using data analytics to decide what is most important./ 
 The season files folder contains all xlsx sheets from 2010-2023 for all NFL teams stats, rankings, coaches, and games. /
 The team links csv contains all links that were used. 
